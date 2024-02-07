@@ -1,0 +1,21 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: 7-segment-display-8qb3b
+  url: https://universe.roboflow.com/uk-jklsw/7-segment-display-8qb3b/dataset/2
+  version: 2
+  workspace: uk-jklsw
+test: C:\Users\line\Desktop\polygon\7-segment-display-2\test\images\
+train: C:\Users\line\Desktop\polygon\7-segment-display-2\train\images\
+val: C:\Users\line\Desktop\polygon\7-segment-display-2\valid\images\
